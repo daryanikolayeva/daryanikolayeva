@@ -1,4 +1,4 @@
-## # 👋 Hello, I’m Darya Nikolayeva
+##  👋 Hello, I’m Darya Nikolayeva
 
 🎓 Computer Science and Statistics Honours student at the University of Manitoba  
 💻 I build tools and systems that solve real-world problems  
