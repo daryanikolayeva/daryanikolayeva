@@ -1,1 +1,29 @@
-Java tool to analyze weighted graphs with Prim's MST and Hamiltonian cycle detection.
+# Graph Analysis Tool (Java)
+
+📊 A Java-based tool for analyzing weighted graphs. It builds a Minimum Spanning Tree using Prim’s algorithm and finds Hamiltonian cycles using backtracking.
+
+---
+
+### 🔍 Problem Solved
+Efficient graph analysis is critical in logistics, networks, and simulations. This tool automates traversal and cycle detection with clean, testable logic.
+
+---
+
+### ⚙️ Features
+- File input for custom graph data
+- Priority queue-based Prim's MST
+- Hamiltonian cycle backtracking
+- Modular object-oriented structure
+
+---
+
+### 🛠 Technologies
+- Java
+- File I/O
+- Graph algorithms
+- Priority Queues
+
+---
+
+### 📁 How to Run
+Compile and run from terminal
